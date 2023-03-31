@@ -19,16 +19,14 @@ I am currently a fifth-year Ph.D. student at IOA, advised by Prof. <a href="http
 My research focuses on **microphone array processing**, **(semi-)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.
 
 
-<span class='anchor' id='about-me'></span>
-  
+<span class='anchor' id='-about-me'></span>
 
-<span class='anchor' id='-xl'></span>
 
 # 🎓 Education
 - *2019.09 - now*, **Ph.D.**, <a href="http://www.ioa.cas.cn/"><img class="svg" src="/images/IOA.svg" width="23pt"></a>, Institute of Acoustics (IOA), University of Chinese Academy of Sciences (UCAS), Beijing, China.
 - *2015.09 - 2019.06*, **B.E.**, <a href="https://www.nwpu.edu.cn/"><img class="svg" src="/images/NWPU.svg" width="23pt"></a>, Northwestern Polytechnical University (NWPU), Xi’an, Shaanxi, China.
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id="-publications">'></span>
 
 # 📝 Publications
 
@@ -61,11 +59,11 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - *2015/2016/2017*, National Encouragement scholarship, Northwestern Polytechnical University (NWPU)
 - *2015/2016/2017*, Individual Scholarship, Northwestern Polytechnical University (NWPU)
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-Honors and Awards'></span>
 
-# 🏛️ Conference
+# 🏛️ Conferences
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='-Conferences'></span>
 
 # 💻 Skills
 Programming
