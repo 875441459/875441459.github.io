@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 I am currently a fifth-year Ph.D. student at IOA, advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-TW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Feiran Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37280194600" target="_blank">Jun Yang</a>.
-My research focuses on **microphone array processing**, **(semi)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.
+My research focuses on **microphone array processing**, **(semi-)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.
 
 
 <span class='anchor' id='about-me'></span>
@@ -34,10 +34,10 @@ My research focuses on **microphone array processing**, **(semi)blind speech sep
 
 ### Journal Articles
 ---
-- `J. Wang`, F. Yang, and J. Yang, “Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays,” *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
+- **J. Wang**, F. Yang, and J. Yang, “Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays,” *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
-- `J. Wang`, F. Yang, Z. Liang and J. Yang, “Maximum Likelihood Distortionless Response Beamformer Based on the Constrained Kalman Filter”. *Journal of Signal Processing.*, 2022, 38(5), 938-945.
+- **J. Wang**, F. Yang, Z. Liang and J. Yang, “Maximum Likelihood Distortionless Response Beamformer Based on the Constrained Kalman Filter”. *Journal of Signal Processing.*, 2022, 38(5), 938-945.
 [[Link]](https://kns.cnki.net/kcms2/article/abstractv=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XT8NjeoFhNsfv7aGlnOwHTYEmBfG024uh0_1ZZQ4pyNz&uniplatform=NZKPT)
 
 
