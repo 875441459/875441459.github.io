@@ -55,7 +55,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - **Adaptive Echo Cancellation with Fast Convergence Rate and robustness to double-talk**, [2021.06-2022.03]
   - *core-participant*, independently developed and tested different algorithms.
 
--  **Audiozooming for sound recording**, [2022.02-2023.02]
+-  **Audiozooming techniques for sound recording**, [2022.02-2023.02]
   - *core-participant*, independently developed the audiozooming algorithm for sound recording in noisy environment.
 
 <span class='anchor' id="-honors-and-awards"></span>
