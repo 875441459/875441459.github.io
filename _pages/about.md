@@ -56,7 +56,8 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
   
 
-- **Audiozooming for sound recording**, [2022.02-2023.02]
+- , [2022.02-2023.02]
+  - **Audiozooming for sound recording**
   As a core-participant, I developed the audiozooming algorithm for sound recording in noisy environment.
 
 <span class='anchor' id="-honors-and-awards"></span>
