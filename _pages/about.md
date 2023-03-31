@@ -50,11 +50,11 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 
 <span class='anchor' id="Expe"></span>
-# EXAMPLES OF PARTICIPATION IN INDUSTRIAL INNOVATION
+# 🧑‍🎨 EXAMPLES OF PARTICIPATION IN INDUSTRIAL INNOVATION
 
-- , [2021.06-2022.03]
+- **Adaptive Echo Cancellation with Fast Convergence Rate**, [2021.06-2022.03]
 
-- , [2022.03-2023.02]
+- **Audiozooming for sound recording**, [2022.02-2023.02]
 
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
