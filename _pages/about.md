@@ -15,8 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-I am currently a fifth-year Ph.D. student at IOA, advised by <a href="https://scholar.google.com/citations?hl=zh-TW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Prof. Feiran Yang</a> and <https://ieeexplore.ieee.org/author/37280194600" target="_blank">Prof. Jun Yang</a>.
-My research focuses on **microphone array processing** , **(semi)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.
+I am currently a fifth-year Ph.D. student at IOA, advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-TW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Feiran Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37280194600" target="_blank">Jun Yang</a>.
+My research focuses on **microphone array processing**, **(semi)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.
 
 
 <span class='anchor' id='about-me'></span>
