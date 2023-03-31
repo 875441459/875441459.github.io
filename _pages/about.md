@@ -26,7 +26,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - *2015.09 - 2019.06*, **B.E.**, <a href="https://www.nwpu.edu.cn/"><img class="svg" src="/images/NWPU.svg" width="23pt"></a>, Northwestern Polytechnical University (NWPU), Xi’an, Shaanxi, China.
 
 
-<span class='anchor' id="-publications">'></span>
+<span class='anchor' id="-publications"></span>
 
 # 📝 Publications
 
