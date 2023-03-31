@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 I am currently a fifth-year Ph.D. student at IOA, advised by Prof. <a href="https://scholar.google.com/citations?hl=zh-TW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Feiran Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37280194600" target="_blank">Jun Yang</a>.
-# About me
+# About Me
 
 My research focuses on **microphone array processing**, **(semi-)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.
 
