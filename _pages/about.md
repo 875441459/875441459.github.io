@@ -35,8 +35,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
-- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum Likelihood Distortionless Response Beamformer Based on the Constrained Kalman Filter"**, *Journal of Signal Processing.*, 2022, 38(5), 938-945.
-[[Link]](https://kns.cnki.net/kcms2/article/abstractv=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7iJTKGjg9uTdeTsOI_ra5_XT8NjeoFhNsfv7aGlnOwHTYEmBfG024uh0_1ZZQ4pyNz&uniplatform=NZKPT)
+- **王劲夫**, 杨飞然, 梁兆杰, 杨军, **基于约束型卡尔曼滤波的最大似然无失真波束形成器**, *Journal of Signal Processing.*, 2022, 38(5), 938-945.
 
 
 ### Manuscripts
