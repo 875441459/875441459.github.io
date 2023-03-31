@@ -42,6 +42,7 @@ My research focuses on microphone array processing , (semi)blind speech separati
 
 
 ### Manuscripts
+---
 - **J. Wang**, F. Yang, and J. Yang, “A general approach to the design of the fractional-order superdirective beamformer”, submitted to *IEEE Trans. Circuits Syst. II.*
 - **J. Wang**, F. Yang, and J. Yang, “Robust adaptation control for generalized sidelobe canceller with time-varying Gaussian source model”, submitted to *EUSIPCO 2023.*
 - **J. Wang**, F. Yang, and J. Yang, “A perspective on the design of fully steerable circular differential beamformers,” submitted to *IEEE Signal Process. Lett.*
@@ -54,6 +55,7 @@ My research focuses on microphone array processing , (semi)blind speech separati
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Honors and Awards
+
 - *2020.07* Pacemaker to Merit Student, University of Chinese Academy of Sciences (UCAS)
 - *2019.06*, Outstanding Graduates, Northwestern Polytechnical University (NWPU)
 - *2015/2016/2017*, National Encouragement scholarship, Northwestern Polytechnical University (NWPU)
@@ -61,13 +63,11 @@ My research focuses on microphone array processing , (semi)blind speech separati
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
-- *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
-- *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
+# 🏛️ Conference
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 工作实习
-- *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
-- *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+# 💻 Skills
+Programming
+- Proficient: MATLAB, Python, LATEX
+- C, HTML
