@@ -52,13 +52,11 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 <span class='anchor' id="Expe"></span>
 # 🧑‍🎨 EXAMPLES OF PARTICIPATION IN INDUSTRIAL INNOVATION
 
-- **Adaptive Echo Cancellation with Fast Convergence Rate**, [2021.06-2022.03]
+- **Adaptive Echo Cancellation with Fast Convergence Rate and robustness to double-talk**, [2021.06-2022.03]
+  - *core-participant*, independently developed and tested different algorithms.
 
-  
-
-- , [2022.02-2023.02]
-  - **Audiozooming for sound recording**
-  As a core-participant, I developed the audiozooming algorithm for sound recording in noisy environment.
+-  **Audiozooming for sound recording**, [2022.02-2023.02]
+  - *core-participant*, independently developed the audiozooming algorithm for sound recording in noisy environment.
 
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
