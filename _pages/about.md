@@ -14,24 +14,24 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I am currently a fifth-year Ph.D. student at IOA, advised by Prof. Feiran Yang and Prof. Jun Yang..
+My research focuses on microphone array processing , (semi)blind speech separation and acoustic echo cancellation. I am also interested in speech enhancement, dereverberatin and deep learning.
+
 
 <span class='anchor' id='about-me'></span>
 
-我将博111111士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-我的研究领域包括：
-- 仪器仪表
+
 
   
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
- 
+# 🎓 Education
+- *2019.09 - now*, **Ph.D.**, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>, Institute of Acoustics (IOA), Chinese Academy of Sciences, Beijing, China, Advisor: Prof. Feiran Yang and Prof. Jun Yang.
+- *2015.09 - 2019.06*, **B.E.**, <a href="https://www.nwpu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a>, Northwestern Polytechnical University (NWPU), Xi’an, Shaanxi, China.
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
