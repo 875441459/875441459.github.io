@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#-About Me"
+    url: "/#-about-me"
 
   - title: "Education"
     url: "/#-Education"
@@ -13,7 +13,7 @@ main:
     url: "/#-Honors and Awards"
 
   - title: "Conferences"
-    url: "/#-Conference"
+    url: "/#-Conferences"
 
   - title: "Skills"
     url: "/#-Skills"
