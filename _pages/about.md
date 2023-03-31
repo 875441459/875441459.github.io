@@ -56,7 +56,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
   - *core-participant*, independently developed and tested different algorithms.
 
 -  **Audiozooming techniques for sound recording 1111111111111111111111111111**, [2022.02-2023.02]
-  - *core-participant*, independently developed the audiozooming algorithm for sound recording in noisy environment.
+   - *core-participant*, independently developed the audiozooming algorithm for sound recording in noisy environment.
 
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
