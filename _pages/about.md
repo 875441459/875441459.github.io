@@ -25,7 +25,7 @@ My research focuses on microphone array processing , (semi)blind speech separati
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2019.09 - now*, **Ph.D.**, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/IOA.svg" width="23pt"></a>, Institute of Acoustics (IOA), University of Chinese Academy of Sciences (UCAS), Beijing, China.
+- *2019.09 - now*, **Ph.D.**, <a href="http://www.ioa.cas.cn/"><img class="svg" src="/images/IOA.svg" width="23pt"></a>, Institute of Acoustics (IOA), University of Chinese Academy of Sciences (UCAS), Beijing, China.
 - *2015.09 - 2019.06*, **B.E.**, <a href="https://www.nwpu.edu.cn/"><img class="svg" src="/images/NWPU.svg" width="23pt"></a>, Northwestern Polytechnical University (NWPU), Xi’an, Shaanxi, China.
 
 <span class='anchor' id='-lwzl'></span>
