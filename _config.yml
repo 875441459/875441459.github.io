@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jinfu Wang (王劲夫)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "Jeffrey.jpg"
   bio              : "Institute of Acoustics, Chinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  employer         : #""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=ofDbeIQAAAAJ"
   email            : "jeffywang97@gmail.com"
