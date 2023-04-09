@@ -25,7 +25,6 @@ author:
   avatar           : "images/JeffreyPics.png"
   bio              : "Institute of Acoustics, Chinese Academy of Sciences"
   location         : "Beijing, China" 
-  cv               : "./docs/JeffWang.pdf"#"https://github.com/875441459/875441459.github.io/tree/main/docs/JeffWang.pdf"
   employer         : #""
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=ofDbeIQAAAAJ"
@@ -45,8 +44,9 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4963-3103"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html" 
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-4963-3103"
+  cv               : "./docs/JeffWang.pdf"#"https://github.com/875441459/875441459.github.io/tree/main/docs/JeffWang.pdf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
