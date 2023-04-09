@@ -221,9 +221,10 @@
       {% endif %}
     </div>
     
-    <div class="author__cv">
+    <div class="list-inline">
     #<img src="{{ author.cv }}" class="author__cv" alt="{{ author.cv }}">
-    <a src="{{ author.cv }}" target="_blank"><i class="fas fa-file"></i> CV</a>
+    <li><a href="{{ author.cv }}" target="_blank"><i class="fas fa-file"></i> CV</a></li>
+    #<a href="{{ author.cv }}" target="_blank"><i class="fas fa-file"></i> CV</a>
     </div>
   </div>
 </div>
