@@ -46,7 +46,7 @@ author:
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html" 
   orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-4963-3103"
-  cv               : "./docs/JeffWang.pdf"#"https://github.com/875441459/875441459.github.io/tree/main/docs/JeffWang.pdf"
+  cv               : "./docs/JeffWang.pdf"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
