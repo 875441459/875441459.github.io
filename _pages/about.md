@@ -37,7 +37,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
 - **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained kalman filter"**, *Journal of Signal Process.*,  vol. 38, pp. 938–945, 2022.
-%- **王劲夫**, 杨飞然, 梁兆杰, 杨军, **基于约束型卡尔曼滤波的最大似然无失真波束形成器**, *Journal of Signal Processing.*, 2022, 38(5), 938-945.
+; - **王劲夫**, 杨飞然, 梁兆杰, 杨军, **基于约束型卡尔曼滤波的最大似然无失真波束形成器**, *Journal of Signal Processing.*, 2022, 38(5), 938-945.
 
 
 ### Manuscripts
