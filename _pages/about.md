@@ -31,12 +31,13 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 # 📝 Publications
 
-### Journal Articles
+### Peer-reviewed Journal Articles
 ---
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
-- **王劲夫**, 杨飞然, 梁兆杰, 杨军, **基于约束型卡尔曼滤波的最大似然无失真波束形成器**, *Journal of Signal Processing.*, 2022, 38(5), 938-945.
+- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained kalman filter"**, *Journal of Signal Process.*,  vol. 38, pp. 938–945, 2022.
+#- **王劲夫**, 杨飞然, 梁兆杰, 杨军, **基于约束型卡尔曼滤波的最大似然无失真波束形成器**, *Journal of Signal Processing.*, 2022, 38(5), 938-945.
 
 
 ### Manuscripts
@@ -47,7 +48,8 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Patents
 ---
-- **王劲夫**，杨飞然，孙国华，杨军. **一种多通道语音信号增强方法及系统**. 2022103848638.
+- **J. Wang**, F. Yang, G. Sun and J. Yang. **Multichannel speech enhancement method**, China patent, Pending.
+#- **王劲夫**，杨飞然，孙国华，杨军. **一种多通道语音信号增强方法及系统**. 2022103848638.
 
 
 <span class='anchor' id="Expe"></span>
