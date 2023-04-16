@@ -36,7 +36,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
-- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained kalman filter"**, *Journal of Signal Process.*,  vol. 38, pp. 938–945, 2022.
+- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained kalman filter"**, *J. Signal Process.*,  vol. 38, no. 5 pp. 938–945, 2022. (in Chinese).
 
 
 ### Manuscripts
@@ -54,10 +54,10 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 # 🧑‍🎨 EXAMPLES OF PARTICIPATION IN INDUSTRIAL INNOVATION
 
 - **Adaptive Echo Cancellation with Fast Convergence Rate and robustness to double-talk**, [2021.06-2022.03]
-  - *core-participant*, independently developed and tested different algorithms.
+  - *core-participant*, independently developed and tested different (stereo-)AEC algorithms.
 
--  **Audiozooming techniques for sound recording 1111111111111111111111111111**, [2022.02-2023.02]
-   - *core-participant*, independently developed the audiozooming algorithm for sound recording in noisy environment.
+-  **Robust spatial filtering techniques for sound recording**, [2022.02-2023.02]
+   - *core-participant*, independently developed a robust spatial filtering algorithm for sound recording with three microphones. The developed algorithm can be utilized to suppress multiple nonstationay (including the competing speakers) signals with little target signal distortion.
 
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
