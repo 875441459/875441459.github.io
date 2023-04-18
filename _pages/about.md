@@ -56,7 +56,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - **Adaptive Echo Cancellation with Fast Convergence Rate and robustness to double-talk**, [2021.06-2022.03]
   - *core-participant*, independently developed and tested different (stereo-)AEC algorithms.
 
--  **Robust spatial filtering techniques for sound recording**, [2022.02-2023.02]
+-  **Robust spatial filtering techniques for sound recording**, [2022.02-2023.03]
    - *core-participant*, independently developed a robust spatial filtering algorithm for sound recording with three microphones. The developed algorithm can be utilized to suppress multiple nonstationay (including the competing speakers) signals with little target signal distortion.
 
 <span class='anchor' id="-honors-and-awards"></span>
