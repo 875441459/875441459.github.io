@@ -19,7 +19,8 @@ redirect_from:
 # About Me
 I am currently a fourth-year Ph.D. student at IOA, advised by Prof. <a href="https://scholar.google.com/citations?hl=zhTW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Feiran Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37280194600" target="_blank">Jun Yang.</a><br/>
 My research focuses on **microphone array processing**, **(semi-)blind speech separation** and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberatin** and **deep learning**.<br/>
-**I’m open to cooperations on related topics. Feel free to drop me an email. You can find my <a href="./docs/JeffWang.pdf">CV</a> here for more information about my research projects and background.**
+**I’m open to cooperations on related topics. Feel free to drop me an email.**
+%You can find my <a href="./docs/JeffWang.pdf">CV</a> here for more information about my research projects and background.
 
 <span class='anchor' id='-Education'></span>
 # 🎓 Education
