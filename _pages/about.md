@@ -33,6 +33,8 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Peer-reviewed Journal Articles
 ---
+-  **J. Wang**, F. Yang, and J. Yang, **"A Perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, early access. [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
+
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
