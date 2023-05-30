@@ -33,7 +33,9 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Peer-reviewed Journal Articles
 ---
--  **J. Wang**, F. Yang, and J. Yang, **"A Perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, early access. [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
+-  **J. Wang**, F. Yang, and J. Yang, **"A Perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, early access. [[Link]]([https://ieeexplore.ieee.org/document/9964078/metrics#metrics](https://ieeexplore.ieee.org/document/10138024/))
+
+-  **J. Wang**, F. Yang, J. Guo, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying gaussian source model"**, Accepted by *EUSIPCO 2023*. 
 
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
@@ -44,7 +46,8 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 ### Manuscripts
 ---
 - **J. Wang**, F. Yang, and J. Yang, **"A general approach to the design of the fractional-order superdirective beamformer"**, submitted to *IEEE Trans. Circuits Syst. II.*, under review.
-- **J. Wang**, F. Yang, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying Gaussian source model"**, submitted to *EUSIPCO 2023.*, under review.
+- 
+- **J. Wang**, F. Yang, and J. Yang, **"Design of frequency-invariant uniform concentric circular arrays with first-order directional microphones"**, submitted to *Signal Process.*, under review.
 
 ### Patents
 ---
