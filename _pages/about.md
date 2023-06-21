@@ -33,7 +33,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Peer-reviewed Journal Articles and Conference Papers
 ---
-- **J. Wang**, F. Yang, and J. Yang, **"A general approach to the design of the fractional-order superdirective beamformer"**, Accepted by *IEEE Trans. Circuits Syst. II.*.[[Link]](https://ieeexplore.ieee.org/document/10158398/)
+- **J. Wang**, F. Yang, and J. Yang, **"A general approach to the design of the fractional-order superdirective beamformer"**, Accepted by *IEEE Trans. Circuits Syst. II.* [[Link]](https://ieeexplore.ieee.org/document/10158398/)
 
 -  **J. Wang**, F. Yang, and J. Yang, **"A perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, vol. 30, pp. 648-652, June. 2023. [[Link]](https://ieeexplore.ieee.org/document/10138024)
 
