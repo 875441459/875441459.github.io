@@ -82,4 +82,4 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 # 💻 Skills
 Programming
 - Proficient: MATLAB, Python, LATEX
-- Familiarity: C, HTML
+- Familiar: C, HTML
