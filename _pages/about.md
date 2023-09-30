@@ -1,4 +1,4 @@
----
+![image](https://github.com/875441459/875441459.github.io/assets/35159706/95401715-720f-407c-b95a-31de1f5983b8)---
 permalink: /
 title: ""
 excerpt: ""
@@ -37,17 +37,19 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 -  **J. Wang**, F. Yang, and J. Yang, **"A perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, vol. 30, pp. 648-652, June. 2023. [[Link]](https://ieeexplore.ieee.org/document/10138024)
 
--  **J. Wang**, F. Yang, J. Guo, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying gaussian source model"**, Accepted by *EUSIPCO 2023*. 
+-  **J. Wang**, F. Yang, J. Guo, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying Gaussian source model"**, Accepted by *EUSIPCO 2023*. 
 
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
-- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained kalman filter"**, *J. Signal Process.*,  vol. 38, no. 5 pp. 938–945, 2022. (in Chinese).
+- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained Kalman filter"**, *J. Signal Process.*,  vol. 38, no. 5 pp. 938–945, 2022. (in Chinese).
 
 
 ### Manuscripts
 ---
-- **J. Wang**, F. Yang, and J. Yang, **"Design of frequency-invariant uniform concentric circular arrays with first-order directional microphones"**, submitted to *Signal Process.*, under review.
+- **J. Wang**, F. Yang, and J. Yang, **"Design of frequency-invariant uniform concentric circular arrays with first-order directional microphones"**, submitted to *Signal Process.*, under second review.
+- **J. Wang**, F. Yang, J. Li, H. Sun, and J. Yang, **"Mode matching based beamforming for the design of robust concentric circular differential microphone arrays"**, submitted to *J. Acoust. Soc. Amer.*, under review.
+- **J. Wang**, F. Yang, R, Chen, and J. Yang, **"On the design of Linear differential microphone arrays with frequency-wise truncation order"**, submitted to *ICASSP 2024.*, under review.
 
 ### Patents
 ---
@@ -61,7 +63,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
   - *core-participant*, independently developed and tested different (stereo-)AEC algorithms.
 
 -  **Robust spatial filtering techniques for sound recording**, [2022.02-2023.03]
-   - *core-participant*, independently developed a robust spatial filtering algorithm for sound recording with three microphones. The developed algorithm can be utilized to suppress multiple nonstationay (including the competing speakers) signals with little target signal distortion.
+   - *core-participant*, independently developed a robust spatial filtering algorithm for sound recording with three microphones. The developed algorithm can be utilized to suppress multiple nonstationary (including the competing speakers) signals with little target signal distortion.
 
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
@@ -80,4 +82,4 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 # 💻 Skills
 Programming
 - Proficient: MATLAB, Python, LATEX
-- Familiart: C, HTML
+- Familiarity: C, HTML
