@@ -75,6 +75,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 <span class='anchor' id='-Conferences'></span>
 
 # 🏛️ Conferences
+- Our paper "Robust Adaptation Control for Generalized Sidelobe Canceller with Time-Varying Gaussian Source Model" is selected as a finalist for the Best Student Paper Contest in EUSIPCO 2023[[Link]](https://eusipco2023.org/best_student_paper_contest.html)
 
 <span class='anchor' id='-Skills'></span>
 
