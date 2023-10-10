@@ -67,6 +67,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
 
+- *2023.09*, EUSIPCO 2023 Travel Grant Award
 - *2020.07*, Pacemaker to Merit Student, University of Chinese Academy of Sciences (UCAS)
 - *2019.06*, Outstanding Graduates, Northwestern Polytechnical University (NWPU)
 - *2015/2016/2017*, National Encouragement scholarship, Northwestern Polytechnical University (NWPU)
