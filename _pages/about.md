@@ -32,7 +32,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Peer-reviewed Journal Articles and Conference Papers
 ---
-- **J. Wang**, F. Yang, and J. Yang, **"A general approach to the design of the fractional-order superdirective beamformer"**, Accepted by *IEEE Trans. Circuits Syst. II.* [[Link]](https://ieeexplore.ieee.org/document/10158398/)
+- **J. Wang**, F. Yang, and J. Yang, **"A general approach to the design of the fractional-order superdirective beamformer"**, *IEEE Trans. Circuits Syst. II.*, vol. 70, no. 15, pp. 4291-4295, June. 2023. [[Link]](https://ieeexplore.ieee.org/document/10158398/)
 
 -  **J. Wang**, F. Yang, and J. Yang, **"A perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, vol. 30, pp. 648-652, June. 2023. [[Link]](https://ieeexplore.ieee.org/document/10138024)
 
@@ -41,7 +41,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
-- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained Kalman filter"**, *J. Signal Process.*,  vol. 38, no. 5 pp. 938–945, 2022. (in Chinese).
+- **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained Kalman filter"**, *J. Signal Process.*,  vol. 38, no. 5, pp. 938–945, 2022. (in Chinese).
 
 
 ### Manuscripts
