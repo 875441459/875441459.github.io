@@ -36,7 +36,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 -  **J. Wang**, F. Yang, and J. Yang, **"A perspective on fully steerable differential beamformers for circular arrays"**, *IEEE Signal Process. Lett.*, vol. 30, pp. 648-652, June. 2023. [[Link]](https://ieeexplore.ieee.org/document/10138024)
 
--  **J. Wang**, F. Yang, J. Guo, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying Gaussian source model"**, Accepted by *EUSIPCO 2023*. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2023/pdfs/0000016.pdf)
+-  **J. Wang**, F. Yang, J. Guo, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying Gaussian source model"**, *EUSIPCO 2023*, pp. 16-20, Helsinki, Finland, Sep. 2023. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2023/pdfs/0000016.pdf)
 
 - **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
 [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
