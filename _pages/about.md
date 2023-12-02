@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 # About Me
-I am currently a fourth-year Ph.D. student at IOA, advised by Prof. <a href="https://scholar.google.com/citations?hl=zhTW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Feiran Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37280194600" target="_blank">Jun Yang.</a><br/>
+I am currently a fifth-year Ph.D. student at IOA, advised by Prof. <a href="https://scholar.google.com/citations?hl=zhTW&user=PWBq4TUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Feiran Yang</a> and Prof. <a href="https://ieeexplore.ieee.org/author/37280194600" target="_blank">Jun Yang.</a><br/>
 My research focuses on **microphone array processing**, **(semi-)blind speech separation**, and **acoustic echo cancellation**. I am also interested in **speech enhancement**, **dereverberation**, and **deep learning**.<br/>
 **I’m open to cooperation on related topics. Feel free to drop me an email.**
 
@@ -40,8 +40,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 -  **J. Wang**, F. Yang, J. Guo, and J. Yang, **"Robust adaptation control for generalized sidelobe canceller with time-varying Gaussian source model"**, *EUSIPCO 2023*, pp. 16-20, Helsinki, Finland, Sep. 2023. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2023/pdfs/0000016.pdf)
 
-- **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022.
-[[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
+- **J. Wang**, F. Yang, and J. Yang, **"Insights into the MMSE-based frequency-invariant beamformers for uniform circular arrays"**, *IEEE Signal Process. Lett.*,  vol. 29, pp. 2432–2436, Dec. 2022. [[Link]](https://ieeexplore.ieee.org/document/9964078/metrics#metrics)
 
 - **J. Wang**, F. Yang, Z. Liang and J. Yang, **"Maximum likelihood distortionless response beamformer based on the constrained Kalman filter"**, *J. Signal Process.*,  vol. 38, no. 5, pp. 938–945, 2022. (in Chinese).
 
