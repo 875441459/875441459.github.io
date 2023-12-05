@@ -32,6 +32,8 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Peer-reviewed Journal Articles and Conference Papers
 ---
+- **J. Wang**, F. Yang, J. Li, H. Sun, and J. Yang, **"Mode matching based beamforming for the design of robust concentric circular differential microphone arrays"**, Accepted by *J. Acoust. Soc. Amer.*
+- 
 - **J. Wang**, F. Yang, and J. Yang, **"Design of frequency-invariant uniform concentric circular arrays with first-order directional microphones"**, *Signal Process.*, vol. 217, pp. 109330, Apr. 2024. [[Link]](https://www.sciencedirect.com/science/article/pii/S0165168423004048)
 
 - **J. Wang**, F. Yang, and J. Yang, **"A general approach to the design of the fractional-order superdirective beamformer"**, *IEEE Trans. Circuits Syst. II.*, vol. 70, no. 15, pp. 4291-4295, Jun. 2023. [[Link]](https://ieeexplore.ieee.org/document/10158398/)
@@ -47,7 +49,6 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Manuscripts
 ---
-- **J. Wang**, F. Yang, J. Li, H. Sun, and J. Yang, **"Mode matching based beamforming for the design of robust concentric circular differential microphone arrays"**, submitted to *J. Acoust. Soc. Amer.*, under review.
 - **J. Wang**, F. Yang, R, Chen, and J. Yang, **"On the design of Linear differential microphone arrays with frequency-wise truncation order"**, submitted to *ICASSP 2024.*, under review.
 
 ### Patents
