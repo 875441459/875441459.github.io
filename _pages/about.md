@@ -51,7 +51,9 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 ### Manuscripts
 ---
-- **J. Wang**, F. Yang, R, Chen, and J. Yang, **"On the design of Linear differential microphone arrays with frequency-wise truncation order"**, submitted to *ICASSP 2024.*, under review.
+- **J. Wang**, F. Yang, R, Chen, and J. Yang, **"On the design of Linear differential microphone arrays with frequency-wise truncation order"**.
+
+- **J. Wang**, F. Yang, and J. Yang, **"Theoretical analysis of differential microphone arrays and improved solutions"**.
 
 ### Patents
 ---
