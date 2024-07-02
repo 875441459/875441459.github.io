@@ -22,7 +22,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 
 <span class='anchor' id='-Education'></span>
 # 🎓 Education
-- *2019.09 - now*, **Ph.D.**, <a href="http://www.ioa.cas.cn/"><img class="svg" src="/images/IOA.svg" width="23pt"></a>, Institute of Acoustics (IOA), University of Chinese Academy of Sciences (UCAS), Beijing, China.
+- *2019.09 - 2024.06*, **Ph.D.**, <a href="http://www.ioa.cas.cn/"><img class="svg" src="/images/IOA.svg" width="23pt"></a>, Institute of Acoustics (IOA), University of Chinese Academy of Sciences (UCAS), Beijing, China.
 - *2015.09 - 2019.06*, **B.E.**, <a href="https://www.nwpu.edu.cn/"><img class="svg" src="/images/NWPU.svg" width="23pt"></a>, Northwestern Polytechnical University (NWPU), Xi’an, Shaanxi, China.
 
 
@@ -72,6 +72,7 @@ My research focuses on **microphone array processing**, **(semi-)blind speech se
 <span class='anchor' id="-honors-and-awards"></span>
 # 🏅 Honors and Awards
 
+- *2024.06*, Outstanding Graduates, University of Chinese Academy of Sciences (UCAS)
 - *2023.09*, EUSIPCO 2023 Travel Grant Award
 - *2020.07*, Pacemaker to Merit Student, University of Chinese Academy of Sciences (UCAS)
 - *2019.06*, Outstanding Graduates, Northwestern Polytechnical University (NWPU)
